@@ -34,5 +34,5 @@ height="50"/>&nbsp;
 <img
   src="https://github.com/devicons/devicon/blob/master/icons%2Fc%2Fc-line.svg" title="Java" alt="Java" width="50"   height="50"/>&nbsp;
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons%2Fhtml5%2Fhtml5-original-wordmark.svg" title="Java" alt="Java" width="50"   height="50"/>&nbsp;
+  src="https://github.com/devicons/devicon/blob/master/icons%2Fdart%2Fdart-original-wordmark.svg" title="Java" alt="Java" width="70"   height="70"/>&nbsp;
 </div>
