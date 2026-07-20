@@ -2,17 +2,17 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycHN3eXU1cmpxaXB2NnFqMmsyY3hzamhoOXIxYjc5ajR5d3Vqa3ZxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OqQAeoJMr7euSb8IiS/giphy.gif" width="600" height="240"/>
 
   # Hi there, I'm Nizami 👋
-  ### Full-Stack Web Developer (Python & Vue.js)
+  ### Full-Stack Web Developer (Python, Java & Vue.js)
 </div>
 
 ---
 
 ### ⚔️ About Me
 
-- 🚀 Currently focused on **Full-Stack Development** building web applications with **FastAPI** & **Vue.js**.
-- 🛠️ Building backend APIs, database architecture, and reactive user interfaces.
-- 🎓 Alumni of **Yandex Lyceum**.
-- 🎯 Always open to interesting projects, freelancing, and collaboration.
+- 🚀 Focused on **Full-Stack Development** building web applications and REST APIs.
+- 🛠️ Working with **Python (FastAPI)**, **Java**, and **Vue.js**.
+- 🎓 Education background: **Yandex Lyceum** & **Samsung IT School**.
+- 🎯 Open for freelance projects, collaboration, and commercial development.
 
 ---
 
@@ -21,6 +21,7 @@
 **Backend & Core:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Frontend:**
